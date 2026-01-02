@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi,
 
-<!--
-**KamenDeku/kamendeku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Multiplatform Software Developer with a **TSU degree**, currently pursuing an **Engineering degree**. I focus on **Full-Stack development**, with experience working across multiple technologies and platforms.
+
+---
+
+### 🛠️ Skills
+
+* Efficient organization
+* Decision-making
+* Teamwork
+* Assertive communication
+* Adaptability to various technologies
+* Continuous learning mindset
+* Multiplatform programming
+
+---
+
+### 💻 Technologies & Tools
+
+* JavaScript
+* Node.js
+* PHP
+* MySQL
+* MongoDB
+* C++
+* React Native
+
+---
+
+### 📜 Certifications
+
+* **Electro-mechanical Technician** – CBTIS 122 (2022)
+* **JavaScript Essentials 1 (JSE)** – Cisco Networking Academy (2023)
+* **Introduction to Cybersecurity** – Cisco Networking Academy (2023)
+
+---
+
+### 📚 Currently Learning
+
+* JavaScript (advanced concepts)
+* TypeScript
+
+---
+
+✨ Always looking to improve my skills and build clean, efficient, and scalable software.
