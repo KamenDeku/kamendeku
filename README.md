@@ -1,9 +1,8 @@
 # 👋 Hi,
 
-
 ### 🚀 About Me
 
-Multiplatform Software Developer with a **TSU degree**, currently pursuing an **Engineering degree**. I focus on **Full-Stack development**, with experience working across multiple technologies and platforms.
+**Information Technology Engineer specialized in Cross-Platform Software Development**. I focus on **Full-Stack development**, with experience working across multiple technologies and platforms.
 
 ---
 
@@ -21,28 +20,39 @@ Multiplatform Software Developer with a **TSU degree**, currently pursuing an **
 
 ### 💻 Technologies & Tools
 
+**Languages**
 * JavaScript
-* Node.js
 * PHP
+* C++
+* C#
+
+**Frameworks and Environments**
+* Node.js
+* React Native
+* Laravel
+* Electron
+* Prisma
+* Docker
+* Unity
+
+**Databases**
 * MySQL
 * MongoDB
-* C++
-* React Native
 
 ---
 
-### 📜 Certifications
+### 📜 Education & Certifications
 
-* **Electro-mechanical Technician** – CBTIS 122 (2022)
-* **JavaScript Essentials 1 (JSE)** – Cisco Networking Academy (2023)
-* **Introduction to Cybersecurity** – Cisco Networking Academy (2023)
+* **Higher University Technician in IT - Cross-Platform Software Development** – UTCH BIS (2025)
+* **Introduction to Cybersecurity** – Cisco Network Academy (2023)
+* **JavaScript Essentials 1 (JSE)** – Cisco Network Academy (2023)
+* **Electromechanical Technician** – CBTIS 122 (2022)
 
 ---
 
 ### 📚 Currently Learning
 
-* JavaScript (advanced concepts)
-* TypeScript
+* Angular
 
 ---
 
